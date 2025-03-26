@@ -12,7 +12,7 @@ BUGS.
 
 ## Illustration
 
-![Heart Mixture Sampler](heart_mixture_sampler.png)
+![Heart Mixture Sampler](images/heart_mixture_sampler.png)
 
 ## Fonctionnalités
 - Modélisation bayésienne pour distinguer les patients guéris des non-guéris.
